@@ -1,0 +1,7 @@
+.vs/
+.vscode/
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
